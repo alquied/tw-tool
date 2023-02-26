@@ -1,3 +1,3 @@
-module github.com/tw-gen-tool
+module github.com/tw-tool
 
 go 1.20
